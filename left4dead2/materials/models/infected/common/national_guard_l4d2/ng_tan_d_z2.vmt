@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+"$basetexture" "models\infected\common\national_guard_l4d2\ng_tan_d_z2"	
+"$bumpmap" "models\infected\common\national_guard_l4d2\ng_n"	
+$shinyblood 1
+$shinybloodexponent 8
+$halflambert 1
+$phong 1
+$phongboost 1
+$phongexponent 3
+$phongtint "[0.4 0.8 0.8]"
+$phongfresnelranges "[0.2 0 .05]"
+$lightwarptexture "models\infected\common\national_guard_l4d2\player_mute_shared"
+$allowdiffusemodulation 0
+$alphatest "1"
+$nocull "1"	
+}

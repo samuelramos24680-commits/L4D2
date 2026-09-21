@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+"$basetexture" "models\props_downtown\bulb\flesh4_color"
+"$bumpmap" "models\props_downtown\bulb\flesh4_normal"
+}

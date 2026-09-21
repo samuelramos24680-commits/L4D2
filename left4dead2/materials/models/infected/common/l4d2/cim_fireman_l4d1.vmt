@@ -1,0 +1,11 @@
+patch
+{
+include "materials/models/infected/common/l4d2/ci_body_include.vmt"
+insert
+{
+$baseTexture "models\infected\common/l4d2/cim_fireman"
+//$bumpmap "models/infected/common/l4d2/cim_fireman_normal"
+$EYEGLOW 1
+$gradienttexture "models/infected/common/l4d2/ci_gradient_palette_fireman_l4d1"
+}
+}

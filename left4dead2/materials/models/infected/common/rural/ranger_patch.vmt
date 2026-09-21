@@ -1,0 +1,20 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+$basetexture "models/infected/common/rural/ranger_patch.vtf"
+$wounded 1
+	$nocull 0
+	$translucent 1
+	$halflambert 1
+	$ambientocclusion 1
+
+	$phong 1
+	$phongboost 1
+	$phongfresnelranges "[ 0.01 ]"
+	$phongexponent 20
+	$phongalbedotint 1
+
+}
+}

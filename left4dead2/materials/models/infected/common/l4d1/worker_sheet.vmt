@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+"$baseTexture" "models\infected\common\l4d1/worker_sheet"
+"$bumpmap" "models\infected\common\l4d1/rank_nml"
+$Wounded 1
+}
+}

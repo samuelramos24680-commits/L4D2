@@ -1,0 +1,32 @@
+
+
+"vertexlitgeneric"
+{
+"$basetexture" "models\infected\hunter20\body_color"
+"$bumpmap" "models\infected\hunter20\body_normal"
+   
+$nodecal 1
+
+$phong                      1
+$phongboost                 5
+$phongfresnelranges         "[0.2 0.2 0.2]"
+$phongtint                  "[.8 .8 1]"
+
+"$PhongExponentTexture" "models\infected\hunter20\spec"
+
+
+
+$envmap                     env_cubemap
+$envmaptint                 "[.004 .004 .004]"
+$envmapfresnel              1
+$envmapFresnelMinMaxExp     "[0 0 .5]"
+
+
+}
+
+
+
+
+
+
+

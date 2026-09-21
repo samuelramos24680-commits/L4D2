@@ -1,0 +1,17 @@
+UnlitGeneric
+{
+	"$basetexture" "models/custom/back4blood/remake/Vomiter/B4B_Imploder_Head"
+	"$bumpmap" "models/custom/back4blood/remake/Vomiter/B4B_Imploder_Head_N"
+
+	$phong 1
+	$phongboost "0.5"
+	$phongexponent 7
+	$phongtint "[.85 .85 1]"
+	$phongfresnelranges "[.2 .5 5]"
+	$nodecal 1
+	$nocull 1
+	$lightwarptexture "models\survivors\coach\coach_head_wrp"
+}
+
+
+

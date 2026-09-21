@@ -1,0 +1,9 @@
+patch
+{
+include "materials/models/infected/common/l4d2/ci_body_include.vmt"
+insert
+{
+$baseTexture "models\infected\common\l4d2/sanitation_mask"
+$BURNING 1
+}
+}

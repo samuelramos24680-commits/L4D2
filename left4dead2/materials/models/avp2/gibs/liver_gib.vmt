@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/AvP2/gibs/liver_gib"
+	"$bumpmap" "models/AvP2/gibs/liver_gib_normal"
+	"$model" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 .8 .8]"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "0.5"
+}

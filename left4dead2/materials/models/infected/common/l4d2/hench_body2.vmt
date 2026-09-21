@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+$basetexture "models/infected/common/l4d2/hench_body2"
+$wounded 1
+$burning 1
+}
+}

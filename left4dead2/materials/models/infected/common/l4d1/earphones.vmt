@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+"$baseTexture" "models\infected\common\l4d1/earphones"
+"$bumpmap" "models\infected\common\l4d1/earphonesn"
+$Wounded 1
+}
+}

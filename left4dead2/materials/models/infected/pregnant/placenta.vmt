@@ -1,0 +1,19 @@
+
+
+"vertexlitgeneric"
+{
+"$basetexture" "models\infected\pregnant\placenta_color"
+"$bumpmap" "models\infected\pregnant\placenta_normal"
+$translucent 1
+
+}
+
+
+
+
+
+
+
+
+
+

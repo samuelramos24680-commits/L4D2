@@ -1,0 +1,34 @@
+
+
+"vertexlitgeneric"
+{
+"$basetexture" "models\props_downtown\bulb\flesh4_color"
+"$bumpmap" "models\props_downtown\bulb\flesh4_normal"
+
+   
+
+
+$phong                      1
+$phongboost                3
+$phongfresnelranges         "[0.2 0.2 0.2]"
+$phongtint                  "[.8 .8 1]"
+
+"$PhongExponentTexture" "models\props_downtown\bulb\spec"
+
+
+
+
+$envmap                     env_cubemap
+$envmaptint                 "[.004 .004 .004]"
+$envmapfresnel              1
+$envmapFresnelMinMaxExp     "[0 0 .5]"
+
+
+}
+
+
+
+
+
+
+

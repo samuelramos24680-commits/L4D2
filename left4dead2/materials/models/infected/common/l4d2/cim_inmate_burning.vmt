@@ -1,0 +1,12 @@
+patch
+{
+include "materials/models/infected/common/l4d2/ci_body_include.vmt"
+insert
+{
+$baseTexture "models\infected\common\l4d2/cim_inmate"
+$GRADIENTTEXTURE "models/infected/common/l4d2/ci_gradient_reo"
+$DETAIL "models/infected/common/cim_tats"
+$DETAILSCALE 1
+$burning 1
+}
+}

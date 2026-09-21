@@ -1,0 +1,29 @@
+
+
+"vertexlitgeneric"
+{
+"$basetexture" "models\infected\harvester\grave_color"
+"$bumpmap" "models\infected\harvester\grave_normal"
+$halflambert 0
+$diffuseexp 1
+$phong 1
+
+$phongfresnelrange_0 ".2"
+$phongfresnelrange_1 ".5"
+$phongfresnelrange_2 5
+$phongfresnelranges "[.2 .5 5]"
+$phongtint "[1 1 1]"
+$phongboost 4
+$phongexponent 50
+$ambientocclusion 1
+}
+
+
+
+
+
+
+
+
+
+

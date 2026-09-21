@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+"$baseTexture" "models\infected\common\l4d1/medcap2"
+"$bumpmap" "models\infected\common\l4d1/medcapn"
+$Wounded 1
+}
+}

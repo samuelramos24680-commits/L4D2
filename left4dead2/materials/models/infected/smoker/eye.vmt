@@ -1,0 +1,28 @@
+"vertexlitgeneric"
+{
+"$basetexture" "models\infected\smoker\eye_color"
+"$bumpmap" "models\infected\smoker\eye_normal"
+"$PhongExponentTexture" "models\infected\smoker\spec"
+"$envmap"                        "env_cubemap"      
+"$envmaptint"                    "[.008 .008 .008]" 
+"$normalmapalphaenvmapmask"      "1"  
+
+"$phong"                         "1"                      
+"$phongboost"                    "16"          
+
+"$phongfresnelranges" "[2.6 4 4.6]"           
+"$phongalbedotint"			"1"
+//"$phongalbedoboost"			"15"
+"$envmapfresnel"		"0.7"
+"$phongexponent" "30"
+"$envmapFresnelMinMaxExp""[0 1 2]"  
+
+"$halflambert" 	   "1" 
+$nodecal "1"
+}
+
+
+
+
+
+

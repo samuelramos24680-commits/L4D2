@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models/infected/common/l4d2/ci_body_include.vmt"
+insert
+{
+$baseTexture "models\infected\common\l4d2/cim_worker_upperbody"
+$GRADIENTTEXTURE "models/infected/common/l4d2/ci_gradient_worker_upperbody_palette" 
+$WOUNDED 1
+}
+}

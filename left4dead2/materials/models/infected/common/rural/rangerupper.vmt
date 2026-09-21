@@ -1,0 +1,9 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+$basetexture "models/infected/common/rural/rangerupper.vtf"
+$wounded 1
+}
+}

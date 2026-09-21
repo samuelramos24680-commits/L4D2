@@ -1,0 +1,9 @@
+patch
+{
+include "materials\models\Infected\common\L4D2\cim_military.vmt"
+insert
+{
+$WOUNDED 1
+$BURNING 1
+}
+}
