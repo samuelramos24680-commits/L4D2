@@ -1,0 +1,9 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+$baseTexture "models\infected\common\national_guard_l4d2\ng_tan_d_z2"
+$wounded 1
+}
+}

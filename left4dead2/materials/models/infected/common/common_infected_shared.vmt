@@ -1,0 +1,29 @@
+Infected
+{
+$shinyblood 1
+$shinybloodexponent 6
+$halflambert 1
+$bumpmap "effects/flat_normal"
+$phong 1
+$phongboost 1
+$phongexponent 1
+$phongtint "[.1 .1 .1]"
+$phongfresnelranges "[1 0 .05]"
+$allowdiffusemodulation 0
+
+$DISABLEVARIATION 1
+$BLOODCOLOR "[0.33 0 0]"
+$DEFAULTPHONGEXPONENT 8
+$SKINPHONGEXPONENT 8
+$BLOODPHONGEXPONENT 100
+$BLOODSPECBOOST 3
+$BLOODMASKRANGE "[.1 .9]"
+$BURNDETAILTEXTURE "models/infected/common/l4d2/ci_burning"
+$GRADIENTTEXTURE "models/infected/common/l4d2/bp_gradient_palette"
+$WOUNDCUTOUTTEXTURE "models/infected/common/body_wounds/wound_combined_cull_texture"
+$CUTOUTDECALFALLOFF 2
+$CUTOUTDECALMAPPINGSCALE 6.5
+$CUTOUTTEXTUREBIAS "0.95"
+$wounded 1
+$burning 1
+}
