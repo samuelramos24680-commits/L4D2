@@ -1,0 +1,10 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+"$basetexture" "models/monsterboys/mb_skull"
+"$bumpmap" "models/monsterboys/mb_skull_normal"
+$wounded 1
+$nocull 1
+}

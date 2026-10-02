@@ -1,0 +1,12 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{	
+"$baseTexture" "models\monsterboys\mb_hands"
+"$bumpmap" "models\monsterboys\mb_hands_normal"
+"$phongexponenttexture" "models\monsterboys\mb_hands_exponent"
+"$rimmask" "1"
+//"$phongBoost" "135"
+$wounded 1
+}	

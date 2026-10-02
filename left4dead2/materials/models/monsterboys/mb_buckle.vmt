@@ -1,0 +1,18 @@
+patch
+{
+include "materials/models/infected/common/common_infected_shared.vmt"
+insert
+{
+"$phongdisablehalflambert" "1"
+"$baseTexture" "models/monsterboys/mb_buckle"
+"$phong" "1"
+"$phongBoost" "3"
+//"$phongExponent" "40"
+"$phongTint" "[1 1 1]"
+"$phongFresnelRanges" "[.2 .2 1]"
+"$rimlight" "1"
+"$rimlightexponent" "15"
+"$rimlightboost" "4"
+"$rimmask" "1"
+$wounded 1
+}
