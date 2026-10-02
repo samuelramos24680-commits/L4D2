@@ -1,0 +1,5 @@
+readded  burning file, = Blue Fire when burning
+
+removed weapon file, = normal fire when in POV
+
+readded screen file, = Blue Fire POV when burning
