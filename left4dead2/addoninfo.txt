@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonversion "1"
+addontitle "[xdr] kip up get up"
+addonDescription "mixamo kip up animations for getting up fast"
+addontagline ""
+addonURL0 ""
+addonSteamGroupName ""
